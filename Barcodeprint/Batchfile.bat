@@ -1,0 +1,2 @@
+Type D:\FIVEPACKAGESOURCE\FIVEPACKAGESOURCE\Barcodeprint\CTR.jas>\\192.168.1.37\Microsoft Print to PDF
+Exit
